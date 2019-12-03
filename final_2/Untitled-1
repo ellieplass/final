@@ -1,0 +1,53 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Interactive Animation</title>
+        <meta name="viewport" content="width=device-width, intial-scale=1"> 
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="clockstyle.css">
+    </head>
+    
+    <body>
+
+        <a href="smiley.html"> <button> Hire me! </button></a>
+        <a href="frowny.html"><button> Fire me. </button></a>
+
+        <p>Profile: Reporter who is eager, passionate, and quick to learn.</p>
+
+        <p>Reporting Experience</p>
+        <p>Food Reporter, Bklyner, New York, NY, May 2019-October 2019</p>
+        <p>Reported and wrote over 75 stories throughout the time working in the newsroom for the internship. Covered the food beat for all of Brooklyn, which included round-ups of the best bakeries in Bensonhurst, news stories about new restaurants and bars opening, and reviews of Brooklyn’s best ice cream. </p>
+        <p>Editorial Intern, Nancy Yost Literary Agency, New York, NY, July 2018-August 2018 Edited manuscripts and determined which to send to agents based on relevancy to the agency, writing skill, character and plot development, and marketability. Developed advanced editing skills. Handled office functions such as mailing author checks, organization of contracts and international files, and team collaboration with other interns on manuscript readings and plans for authors. </p>
+
+<p>Other Experience
+    Student Senator, The New School, Eugene Lang College,  2017-2018. </p>
+        <p>Worked with a team of other elected students to decide funding for student organizations, project proposals, and university programs. Also organized student development  activities for the college.</p>
+        <p>Administrative Assistant, Lamia’s Fish Market, New York, NY, 2017-2018</p>
+        <p>Acted as assistant to restaurant owner and business mogul Lamia Funti as she opened her new restaurant in Alphabet City. Kept track of scheduling, attended all purchasing and tasting meetings, provided input on the menu and future of the restaurant. Trained new employees and ensured that space was running smoothly for service.</p>
+        <p>Arnold and Sheila Aronson Gallery: Beyond Addiction, Reframing Recovery: April 2019 </p>
+        <p>Interview piece about Harm Reduction services at The New School selected to be a part of gallery show about opioid addiction. </p>
+
+        <p>Education</p>
+        <p>The New School, New York, New York.— Major: Journalism and Design, Minor: Creative Coding</p>
+        <p>Graduation: December 2019.   </p> 
+        <p>Current GPA: 3.87</p>
+        <p>Skills</p>
+        <p>Proficient in the Adobe Suite, Photoshop, InDesign, Illustrator, Premiere, Audition; Microsoft Excel, Google Sheets, Word Press, Medium; Data Visualization, HTML code, CSS, Data Processing, Javascript, P5, Sketch. </p>
+
+        <p>References</p>
+<p>Kia Gregory, Reporter and Assistant Professor, Journalism + Design, The New School 
+    (917) 426.2750. </p>
+        <p>Sarah E. Younger, Senior Agent, Nancy Yost Literary Agency: (212) 239-2861</p>
+        <p>Liena Zagare, Editor in Chief, Bklyner, 917.496.5888 , liena@bklyner.com.</p>
+
+        <p>Samples of Work: https://bklyner.com/author/ellenplass/</p>
+        
+        
+        
+        
+        
+        
+    </body>
+</html>
