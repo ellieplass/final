@@ -1,8 +1,43 @@
-p{
-    color: white;
-    max-width: 50%;
-    text-align: center;
+.box_one{
+    text-align: justify;
+    font-size: 14pt;
+    width: 100px;
+    height: 200px;
+    transform: rotate(90deg);
+    border: 1px solid black;
+margin-left: 0px;
+}
+
+
+.box_two{
+     text-align: justify;
+    font-size: 8pt;
+    width: 100px;
+    height: 500px;
+    transform: rotate(90deg);
+    border: 1px solid black;
+    margin-left:20px;
+
     
     
 }
 
+.box_three{
+       text-align: justify;
+    font-size: 8pt;
+    width: 100px;
+    height: 600px;
+    transform: rotate(90deg);
+    border: 1px solid black; 
+
+      
+}
+.box_four{
+    text-align: justify;
+    font-size: 12pt;
+    width: 100px;
+    height: 200px;
+    transform: rotate(90deg);
+    border: 1px solid black; 
+
+}
