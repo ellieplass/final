@@ -1,3 +1,14 @@
+a{
+    
+    color: black;
+    
+}
+
+a:visited{
+    color: black;
+    
+}
+
 .box_one{
     position: absolute;
     text-align: justify;
@@ -69,7 +80,6 @@ margin-left: 0px;
     font-size: 12pt;
     width: 175px;
     height: 300px;
-/*    border: 1px solid black;*/
     margin-left:20px; 
     overflow:hidden;
 }
@@ -80,7 +90,7 @@ margin-left: 0px;
        text-align: justify;
     font-size: 12pt;
     width: 105px;
-    height: 99vh;
+    height: 80vh;
     margin-left:20px; 
     overflow: hidden;
     
@@ -93,7 +103,7 @@ margin-left: 0px;
     text-align: justify;
     font-size: 12pt;
     width: 105px;
-    height: 96vh;
+    height: 85vh;
     margin-left:20px;  
     overflow:hidden;
 }
@@ -144,3 +154,117 @@ margin-left: 0px;
     
 }
 
+.box_fourteen{
+      position: absolute;
+    left: 1640px;
+       bottom: 0%;
+    text-align: justify;
+    font-size: 12pt;
+    width: 175px;
+    height: 400px;
+    margin-left:20px;  
+    overflow: hidden;
+    
+}
+
+.box_fifteen{
+      position: absolute;
+    left: 1830px;
+       bottom: 0%;
+    text-align: justify;
+    font-size: 12pt;
+    width: 130px;
+    height: 87vh;
+    margin-left:20px;  
+    overflow: hidden;
+    
+}
+
+.box_sixteen{
+    position: absolute;
+    left: 1970px;
+       bottom: 0%;
+    text-align: justify;
+    font-size: 12pt;
+    width: 119px;
+    height: 65vh;
+    margin-left:20px;
+    overflow: hidden;
+}
+
+
+.box_seventeen{
+    position: absolute;
+    left: 2130px;
+       bottom: 0vh;
+    text-align: justify;
+    font-size: 12pt;
+    width: 110px;
+    height: 280px;
+    overflow: hidden;
+
+}
+
+.box_eighteen{
+    position: absolute;
+    text-align: justify;
+    left: 2250px;
+    bottom: 0%;
+    font-size: 12pt;
+    width: 110px;
+    height: 200px;
+margin-left: 0px;
+    overflow: hidden;
+}
+
+
+.box_nineteen{
+    position: absolute;
+    left: 2360px;
+       bottom: 0%;
+     text-align: justify;
+    font-size: 12pt;
+    width: 100px;
+    height: 500px;
+    margin-left:20px;
+    overflow: hidden;
+    
+    
+}
+
+.box_twenty{
+    position: absolute;
+    left: 2470px;
+       bottom: 0%;
+       text-align: justify;
+    font-size: 12pt;
+    width: 175px;
+    height: 300px;
+    margin-left:20px; 
+    overflow:hidden;
+}
+
+.box_twenty_one{
+    position: absolute;
+    left: 2680px;
+       bottom: 0vh;
+    text-align: justify;
+    font-size: 12pt;
+    width: 110px;
+    height: 280px;
+    overflow: hidden;
+
+}
+
+.box_twenty_two{
+    position: absolute;
+    left: 2790px;
+       bottom: 0%;
+    text-align: justify;
+    font-size: 12pt;
+    width: 120px;
+    height: 500px;
+    margin-left:20px;
+    overflow: hidden;
+    
+}
